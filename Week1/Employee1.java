@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Week3.Employee;
+
 class Employee {
     int emp_id;
     String name;

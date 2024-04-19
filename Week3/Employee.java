@@ -1,5 +1,3 @@
-import Employee;
-
 class Employees {
 
     int Employeeno;
