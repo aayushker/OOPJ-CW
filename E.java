@@ -29,3 +29,39 @@
 //     }
 // }
 
+// class abstract Gbase{
+//     public void testBase(){
+//         System.out.println("Base");
+//     }
+// }
+
+// class Gderived extends Gbase{
+//     public void testDerived(){
+//         System.out.println("Derived");
+//     }
+// }
+
+// interface II {
+//     private int a = 100;
+//     protected void m1();
+// }
+
+// class Al implements II {
+
+//     public void m1(){
+
+    
+//     System.out.println("In ml method");
+    
+//     }
+//     }
+
+
+public class E{
+    public static void main(String[] args) {
+        int[] A;
+        A[0]=0;
+
+        
+    }
+}
